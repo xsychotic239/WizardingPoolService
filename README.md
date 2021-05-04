@@ -2,14 +2,13 @@
 
 ### What services do we offer?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We offer a variety of treatments for your pool, here a some examples
 
 ```markdown
-Syntax highlighted code block
+Standard chemical testing (Chlorine, PH, Alkalinity, etc...)
 
-# Header 1
-## Header 2
-### Header 3
+`Tile cleaning`
+`Pool scrubbing`
 
 - Bulleted
 - List
