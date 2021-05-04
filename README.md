@@ -1,8 +1,6 @@
-## Welcome to Wizarding Pool Service
+## We bring the magic to your backyard
 
-
-
-### Markdown
+### What services do we offer?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -24,7 +22,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see our [facebook page](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
