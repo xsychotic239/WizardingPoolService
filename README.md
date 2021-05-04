@@ -1,6 +1,6 @@
 ## Welcome to Wizarding Pool Service
 
-Where we bring the magic to your backyard
+`Where we bring the magic to your backyard`
 
 ### Markdown
 
