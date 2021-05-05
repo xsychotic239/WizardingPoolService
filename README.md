@@ -1,14 +1,16 @@
 ## We bring the magic to your backyard
 
-### What services do we offer?
+### Your satisfaction is our priority 
 
-We offer a variety of treatments for your pool, here a some examples
+
+Here at Wizarding Pool Service, we strive for perfection, from the smooth clean tile, to the crystal clear water
+
 
 ```markdown
 Standard chemical testing (Chlorine, PH, Alkalinity, etc...)
 
-`Tile cleaning`
-`Pool scrubbing`
+Tile cleaning
+Pool scrubbing
 
 - Bulleted
 - List
