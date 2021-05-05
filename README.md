@@ -9,4 +9,4 @@ For more details see our [facebook page](https://guides.github.com/features/mast
 
 ### Have any questions or concerns?
 
-Please email us [at example@gmail.com](https://github.com/xsychotic239/WizardingPoolService/settings/pages). We will respond to your message as soon as possible, your satisfaction is our priority
+Please email us at [example@gmail.com](https://github.com/xsychotic239/WizardingPoolService/settings/pages). We will respond to your message as soon as possible, your satisfaction is our priority
